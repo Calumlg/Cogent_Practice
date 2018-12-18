@@ -1,5 +1,7 @@
 function rewardSWB(subjectid)
 
+%added comment
+%added another comment
 %testing making a change from matlab
 
 % rewardSWB(SUBJECTID)
